@@ -1,7 +1,7 @@
 # IP Intelligence Toplayıcı
 
 **Proje Adı:** IP Intelligence Toplayıcı  
-**Öğrenci Adı ve Numarası:** Emre Can Telli  
+**Öğrenci Adı ve Numarası:** Emre Can Telli  2320191027
 **Teslim Tarihi:** 28.01.2025  
 
 ---
